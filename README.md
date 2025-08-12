@@ -43,6 +43,7 @@
 
 
 📅 Progresso
+
 ✅ Estrutura HTML básica
 
 ✅ Introdução ao CSS
