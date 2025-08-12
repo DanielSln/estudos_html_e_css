@@ -11,9 +11,6 @@
 
 ---
 
-
----
-
 ## 🛠 Tecnologias Utilizadas
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,7 +36,7 @@
 ## 🚀 Como Utilizar
 1. **Clone este repositório**  
    ```bash
-   git clone https://github.com/DanielSln/estudos_html_e_css
+   git clone https://github.com/DanielSln/estudos_html_e_css.git
 
 
 📅 Progresso
